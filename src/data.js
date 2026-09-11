@@ -10,7 +10,7 @@ export const profile = {
   location: 'Chennai, India',
   email: 'vm.raguraaman@gmail.com',
   github: 'https://github.com/RaguraamanVM',
-  linkedin: 'https://www.linkedin.com/in/raguraaman-v-m/',
+  linkedin: 'https://www.linkedin.com/in/raguraaman/',
   resume: `${import.meta.env.BASE_URL}Raguraaman_Resume.pdf`,
   avatar: `${import.meta.env.BASE_URL}profile.jpg`,
   initials: 'RR',
