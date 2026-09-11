@@ -39,7 +39,7 @@ export default function Contact() {
           <Linkedin size={18} strokeWidth={1.6} />
           <div>
             <span className="endpoint__label">linkedin</span>
-            <span className="endpoint__value">raguraaman/</span>
+            <span className="endpoint__value">linkedin.com/in/raguraaman/</span>
           </div>
         </a>
       </div>
