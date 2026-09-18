@@ -106,7 +106,7 @@ export const projects = [
       'Trivy',
       'Argo CD',
       'AWS EKS'],
-    github: '#',
+    github: 'https://github.com/RaguraamanVM/aws-eks-microservices-devsecops-gitops-platform.git',
     live: null,
   },
 
